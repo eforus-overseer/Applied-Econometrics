@@ -17,3 +17,11 @@ Exercises made of real central bureau of statistics data
 ![modles](https://github.com/efipaka/Applied-Econometrics/blob/master/lorenz%20curve%20jewish.png)
 
 ![modles](https://github.com/efipaka/Applied-Econometrics/blob/master/Lorenz%20Curve%20General.png)
+
+---
+
+<!-- demo-lab:start -->
+## Explore this project
+
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/applied-econometrics/) — Try an interactive explanation and inspect the original source and results. Browser teaching examples are distinguished from trained models.
+<!-- demo-lab:end -->
