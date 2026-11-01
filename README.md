@@ -25,3 +25,11 @@ Exercises made of real central bureau of statistics data
 
 [Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/applied-econometrics/) — Try an interactive explanation and inspect the original source and results. Browser teaching examples are distinguished from trained models.
 <!-- demo-lab:end -->
+
+
+<!-- codex-pixel-art -->
+## Pixel art
+
+![Pixel art for Applied-Econometrics](assets/pixel-art.svg)
+
+A small visual signature for this repository.
