@@ -32,4 +32,4 @@ Exercises made of real central bureau of statistics data
 
 ![Pixel-art cover for Applied-Econometrics](assets/project-cover.png)
 
-<sub>Pixel-art adaptation of [Academic works by discipline over time (visualization of studies data in OpenAlex)](https://commons.wikimedia.org/wiki/File:Academic_works_by_discipline_over_time_(visualization_of_studies_data_in_OpenAlex).png) by Shubhanshu Mishra made the first version which I then modified and the latest version is made anew, licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Source: Wikimedia Commons.</sub>
+<sub>Pixel-art adaptation of [OpenMoji bar chart](https://github.com/hfg-gmuend/openmoji/blob/master/color/618x618/1F4CA.png) by OpenMoji contributors, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source: OpenMoji.</sub>
